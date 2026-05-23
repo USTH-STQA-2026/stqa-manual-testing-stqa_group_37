@@ -31,7 +31,8 @@
 | TC-13 | Borrow Book | Borrow request succeeds | Book borrowed successfully | Pass | <img width="2435" height="1600" alt="image" src="https://github.com/user-attachments/assets/1db2d749-1f67-4377-8f7c-9856bdc50feb" />| None |
 | TC-14 | Borrow Book | Reject borrowing already borrowed book | Borrow rejected correctly | Pass | <img width="2435" height="1600" alt="image" src="https://github.com/user-attachments/assets/ec7a8444-bfc9-41a4-be95-e0c246c3274d" />| None |
 | TC-15 | Borrow Limit | Allow borrowing the 3rd book | Borrow successful | Pass | <img width="2435" height="1600" alt="image" src="https://github.com/user-attachments/assets/de0b2dff-e8d6-40a2-82af-737fa18e82fd" />| None |
-| TC-16 | Borrow Limit | Reject borrowing the 4th book | Borrow successfully | Fail | <img width="2435" height="1600" alt="image" src="https://github.com/user-attachments/assets/01dd3928-33eb-47ba-84e4-059729ac5cfa" />| None |
+| TC-16 | Borrow Limit | Reject borrowing the 4th book | Borrow successfully | Fail | <img width="2435" height="1600" alt="image" src="https://github.com/user-attachments/assets/01dd3928-33eb-47ba-84e4-059729ac5cfa" /><img width="2560" height="1388" alt="image" src="https://github.com/user-attachments/assets/ff8db22d-a53c-4e11-a96d-50e346e5e47e" />
+| None |
 | TC-17 | Session Security | Redirect expired session to login page | User redirected correctly | Pass | <img width="2435" height="1600" alt="image" src="https://github.com/user-attachments/assets/42632d1e-3bd6-4646-8318-37923b8983e6" />| None |
 | TC-18 | Member Validation | Notify expired member account | Correct notification displayed | Pass | Screenshot of notification | None |
 | TC-19 | Member Validation | Notify suspended member account | Correct notification displayed | Pass | Screenshot of notification | None |
